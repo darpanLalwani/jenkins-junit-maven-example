@@ -1,2 +1,3 @@
-# jenkins-junit-maven-example
-This is the maven basic project with Junit test cases for Jenkins integration.
+#npm install --save-dev jest jest-junit
+npm install
+npm run test
